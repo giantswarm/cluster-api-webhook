@@ -1,0 +1,6 @@
+domain: x-k8s.io
+layout:
+- go.kubebuilder.io/v3
+projectName: cluster-api-webhook
+repo: github.com/giantswarm/cluster-api-webhook
+version: "3"
